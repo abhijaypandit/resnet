@@ -1,3 +1,5 @@
+# CSCE636 Fall 2021 Term Project 
+
 Author: Abhijay Pandit
 
 This folder contains all the source codes necessary to train and test model on CIFAR-10 dataset.
