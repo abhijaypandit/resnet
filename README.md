@@ -1,4 +1,4 @@
-# CSCE636 Fall 2021 Term Project 
+# Fall 2021 Term Project 
 
 Author: Abhijay Pandit
 
